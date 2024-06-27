@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1719527665 source:/home/pigsystem/Documents/c_program/tcpClient/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	<sys/socket.h>
+	<arpa/inet.h>
+	<pthread.h>
+	<errno.h>
+	<fcntl.h>
+	<semaphore.h>
+
