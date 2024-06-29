@@ -11,3 +11,23 @@
 	<fcntl.h>
 	<semaphore.h>
 
+1719594770 source:/home/pigsystem/Documents/GitHub/PIG_System_tcpClient/main.c
+	<stdio.h>
+	<stdlib.h>
+	"tcpClient.h"
+
+1719595895 /home/pigsystem/Documents/GitHub/PIG_System_tcpClient/tcpClient.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	<sys/socket.h>
+	<arpa/inet.h>
+	<pthread.h>
+	<errno.h>
+	<fcntl.h>
+	<semaphore.h>
+
+1719593589 source:/home/pigsystem/Documents/GitHub/PIG_System_tcpClient/tcpClient.c
+	"tcpClient.h"
+
